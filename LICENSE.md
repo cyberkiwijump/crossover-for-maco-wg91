@@ -1,4 +1,4 @@
-# 
+# CrossOver for macOS elite Extension: snapshot-rollback & shared-folders is the best CrossOver for macOS extension, featuring snapshot-rollback and shared-folders. Powerful,
 
 
 
